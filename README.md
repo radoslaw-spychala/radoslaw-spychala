@@ -23,7 +23,7 @@ I enjoy designing, deploying and documenting real-world projects that demonstrat
 
 ## Operating Systems
 
-- Windows 10 / 11
+- Windows 11
 - Debian Linux
 - Ubuntu Server
 
