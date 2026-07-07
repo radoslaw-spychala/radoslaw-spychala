@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Radoslaw Spychala
 
-## About Me
+I'm an aspiring **Cybersecurity Professional** based in the United Kingdom, building a hands-on portfolio in cybersecurity, system administration and infrastructure.
 
-I'm an aspiring Cybersecurity Professional based in the United Kingdom.
-
-I'm currently developing practical skills in cybersecurity through home labs, infrastructure projects, networking, Linux administration and continuous learning.
-
-My goal is to build strong hands-on experience in Blue Team operations, system administration and network security.
+I enjoy designing, deploying and documenting real-world projects that demonstrate practical technical skills rather than following tutorials.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 - Cybersecurity
 - Linux Administration
@@ -18,73 +14,114 @@ My goal is to build strong hands-on experience in Blue Team operations, system a
 - Networking
 - Python
 - Home Labs
+- Infrastructure
 - Active Directory
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
-### Operating Systems
+## Operating Systems
+
 - Windows 10 / 11
 - Debian Linux
-- Ubuntu
+- Ubuntu Server
 
-### Networking
+## Networking
+
 - TCP/IP
 - DNS
 - DHCP
 - NAT
 - VLAN (Learning)
 
-### Tools
+## Cybersecurity
+
+- Network Monitoring
+- DNS Filtering
+- Linux Hardening
+- Log Analysis
+- Home Lab Administration
+
+## Tools
+
 - Git & GitHub
 - Wireshark
 - Nmap
 - VirtualBox
 - Pi-hole
 
-### Programming
+## Scripting
+
 - Python (Learning)
 - Bash
 - PowerShell (Learning)
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-| Project | Status |
-|---------|--------|
-| Cybersecurity Portfolio | ✅ |
-| Pi-hole DNS Server | 🔄 |
-| Debian Home Server | 🔄 |
-| Custom 3D Printer Build | ✅ |
-| Active Directory Lab | ⏳ |
-| Wireshark Analysis | ⏳ |
-| Wazuh SIEM | ⏳ |
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Pi-hole DNS Server** | Raspberry Pi deployment with network-wide DNS filtering, Cloudflare DNS, DNSSEC and DHCP migration from ISP router | ✅ Released |
+| **Debian Home Server** | Self-hosted Linux server providing infrastructure services running 24/7 | 🚧 In Progress |
+| **Cowrie SSH Honeypot** | Medium-interaction honeypot for attacker behaviour analysis and deception research | 🚧 Planned |
+| **Active Directory Lab** | Windows domain environment for administration, Group Policy and security testing | 🚧 Planned |
+| **Wazuh SIEM** | Centralised log collection, monitoring and threat detection | 🚧 Planned |
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - SOC Fundamentals
 - Incident Response
 - Linux Hardening
 - Windows Security
 - Python for Cybersecurity
+- Detection Engineering
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 - Build a professional cybersecurity portfolio
-- Complete multiple hands-on security projects
+- Complete multiple infrastructure projects
+- Deploy enterprise-style home lab
 - Earn industry certifications
-- Land my first cybersecurity role
+- Land my first Cybersecurity or Infrastructure role
 
 ---
 
-## 📫 Connect with me
+# 📈 GitHub Focus
 
-GitHub: https://github.com/radoslaw-spychala
+My repositories are focused on practical, documented projects that demonstrate real-world skills in:
 
-LinkedIn *(Coming Soon)*
+- Linux Administration
+- Windows Administration
+- Networking
+- Infrastructure
+- Self-hosting
+- Cybersecurity
+- Raspberry Pi
+- Home Labs
+
+Every completed project includes:
+
+- Technical documentation
+- Network diagrams
+- Configuration screenshots
+- Deployment notes
+- Challenges encountered
+- Lessons learned
+
+---
+
+# 📫 Connect with Me
+
+**GitHub**
+
+https://github.com/radoslaw-spychala
+
+**LinkedIn**
+
+*Coming Soon*
